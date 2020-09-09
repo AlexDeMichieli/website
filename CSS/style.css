@@ -103,14 +103,14 @@ body {
   to {
     -moz-transform: translate(0, 0px); } }
 
-.spin {
+/* .spin {
   animation: App-logo-spin infinite 10s linear; }
 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg); }
   to {
-    transform: rotate(360deg); } }
+    transform: rotate(360deg); } } */
 
 .heading-primary {
   color: #fff;
