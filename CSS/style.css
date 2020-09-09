@@ -129,7 +129,7 @@ body {
   }
    @media (min-width: 1800px) {
       .heading-primary--main {
-        top: -30px;
+        top: 56px;
         letter-spacing: 1rem;
         font-family: 5rem; 
        } 
@@ -156,7 +156,7 @@ body {
   }
   @media (min-width: 1800px) {
     .heading-primary--sub {
-      top: 113px;
+      top: 166px;
       left: 14%;
       letter-spacing: 41px;
       font-weight: 300;
