@@ -598,6 +598,9 @@ body {
     rgba(251, 151, 69, 1) 100%
   );
 }
+.card__side--back-7 {
+  background-image: linear-gradient(330deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
 .card:hover .card__side--front {
   transform: rotateY(-180deg);
 }
